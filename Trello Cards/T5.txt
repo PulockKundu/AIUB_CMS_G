@@ -1,0 +1,6 @@
+Place orders at the counter by Customer
+
+Customers shall be able to place orders at the counter in order to purchase items conveniently.
+
+
+

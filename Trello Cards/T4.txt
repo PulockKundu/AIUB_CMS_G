@@ -1,0 +1,3 @@
+Process customer orders via cart by Staff
+
+Staff shall be able to process customer orders through a cart in order to complete transactions efficiently.
