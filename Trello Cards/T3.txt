@@ -1,3 +1,0 @@
-Login by Staff
-
-Staff shall be able to log in securely using their credentials in order to access the POS system.
