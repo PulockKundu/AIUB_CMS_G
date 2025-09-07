@@ -1,0 +1,3 @@
+Manage staff accounts by Admin
+
+The admin shall be able to manage staff accounts by creating, updating, and deleting user access.
