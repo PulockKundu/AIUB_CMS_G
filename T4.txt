@@ -1,0 +1,3 @@
+Process customer orders via cart by Staff
+
+As a staff member, orders should be processed through the cart system to enable quick and efficient completion of transactions.
