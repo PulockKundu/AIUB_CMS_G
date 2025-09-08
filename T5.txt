@@ -1,0 +1,1 @@
+As a Customer, I want to place orders at the counter so that I can buy items conveniently.
